@@ -1,2 +1,4 @@
 stage 1: abc
 stage 2: cda
+
+stage 4: nothing
